@@ -1,0 +1,6 @@
+{
+  "name": "Mitsubishi Motors Sales Manager Portal",
+  "description": "An advanced, high-density analytics & operations dashboard for Mitsubishi Motors sales managers to track opportunities, approve deals, assign leads, monitor DMS integrations, and evaluate team performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
